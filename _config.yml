@@ -2,11 +2,11 @@
 title: Start Jekyll
 email: taniarascia@gmail.com
 description: >
-  A guide to getting started with Jekyll.
+  Mejorando la salud 1 bit a la vez
 baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+url: "http://hackeandosalud.github.io"
+twitter_username: hackeandosalud
+github_username:  hackeandosalud
 # Build Settings
 sass:
   sass_dir: _sass
