@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
+title: Hackeando Salud
 email: taniarascia@gmail.com
 description: >
-  A guide to getting started with Jekyll.
+  Mejorando la salud 1 bit a la vez
 baseurl: ""
 url: "http://localhost:4000"
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username: hackeandosalud
+github_username:  hackeandosalud
 # Build Settings
 sass:
   sass_dir: _sass
